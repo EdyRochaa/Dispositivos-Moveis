@@ -33,3 +33,13 @@
 - [ ] Tela de **Desafios** — lista semanal de hábitos com checkboxes (RF06 — Registro diário)
 - [ ] Tela de **Perfil** — foto, dados pessoais, configurações (notificações, modo escuro, localização)
 - [ ] Sistema de design: paleta de cores, tipografia, ícones e componentes visuais globais
+
+
+### ⚙️ João Felipe — Backend / QA
+ 
+**Tela: Desafios (Lista de Hábitos)**
+ 
+- [ ] Lista semanal de hábitos sustentáveis com checkboxes
+- [ ] Categorias: transporte público, economia de energia, reciclagem, dieta
+- [ ] Marcar hábito como concluído no dia (RF06 — Registro diário)
+- [ ] CRUD completo: Cadastro, Edição e Exclusão de hábito com confirmação
